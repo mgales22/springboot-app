@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mgalesic.websocket.ChatApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-22T17:22:09" hostname="Air-od-Macbook" time="1.53">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.mgalesic.websocket.ChatApplicationTests" time="1.53"/>
+  <system-out><![CDATA[19:22:05.824 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.mgalesic.websocket.ChatApplicationTests]: ChatApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+19:22:05.958 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.mgalesic.websocket.ChatApplication for test class com.mgalesic.websocket.ChatApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.4)
+
+2023-09-22T19:22:06.503+02:00  INFO 7409 --- [    Test worker] c.m.websocket.ChatApplicationTests       : Starting ChatApplicationTests using Java 19.0.2 with PID 7409 (started by macbookair in /Users/macbookair/Desktop/projekt_spring-boot/springboot_mgalesic)
+2023-09-22T19:22:06.506+02:00  INFO 7409 --- [    Test worker] c.m.websocket.ChatApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2023-09-22T19:22:08.999+02:00  INFO 7409 --- [    Test worker] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2023-09-22T19:22:09.012+02:00  INFO 7409 --- [    Test worker] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@75fd65c]]
+2023-09-22T19:22:09.014+02:00  INFO 7409 --- [    Test worker] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2023-09-22T19:22:09.060+02:00  INFO 7409 --- [    Test worker] c.m.websocket.ChatApplicationTests       : Started ChatApplicationTests in 2.886 seconds (process running for 4.568)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
