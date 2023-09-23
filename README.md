@@ -19,4 +19,7 @@ HTML, CSS, i JavaScript: Za izradu korisničkog sučelja.
 Za pokretanje web stranice treba slijediti ove korake:
 
 Klonirati repozitorij projekta u folder na Vašem računalu.
-Otvoriti IDE i otvoriti/pokrenuti projekt. Pristupite web stranici u svom pregledniku na http://localhost:8080.
+
+Otvoriti IDE i pokrenuti projekt.
+
+Pristupite web stranici u svom pregledniku na http://localhost:8080.
